@@ -1,10 +1,10 @@
-# Logo
 
-![Image-Absolute](https://github.com/mikkeschiren/impono-presentation/blob/master/assets/impono_logo.png)
+
+![Image-Absolute](assets/impono_logo.png)
 
 ---
-# Why?
+An open source tag manager
 
-
+(think Google Tag Manager, without Google, and without privacy issues.)
 
 ---
