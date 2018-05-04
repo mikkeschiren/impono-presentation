@@ -1,7 +1,8 @@
 
 
+<div style="background-color:white">
 ![Image-Absolute](assets/impono_logo.png)
-
+</div>
 ---
 ## An open source tag manager
 
