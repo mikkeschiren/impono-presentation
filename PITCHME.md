@@ -12,8 +12,9 @@ Think Google Tag Manager, without Google, and without privacy issues.
 
 ## What is a tag manager?
 
-Tags refer to Ad tags – but the use case is much bigger than that.
-More or less: add whatever you neeed to whatever you want, with one script.
+> A tag management system is designed to help manage the lifecycle of e-marketing tags (sometimes referred to as tracking pixels or web beacons), which are used to integrate third-party software into digital properties.
+
+But that is just the top of the iceberg.
 
 ---
 # Use case: Matomo
